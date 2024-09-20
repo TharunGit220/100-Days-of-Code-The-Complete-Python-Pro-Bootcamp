@@ -1,4 +1,5 @@
 import random
+import art
 
 def game(lives):
     numb = random.randint(1,101)
